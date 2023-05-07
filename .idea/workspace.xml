@@ -4,11 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5497074f-b7dd-4828-9195-c4c847f03ee2" name="Changes" comment="" />
+    <list default="true" id="5497074f-b7dd-4828-9195-c4c847f03ee2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/Ingredients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/Ingredients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/UserGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/UserGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CreateUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EditUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EditUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginUserTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="develop2" />
+                    <option name="lastUsedInstant" value="1683439647" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1683439549" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,12 +77,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/cygwin64/home/Nikitin/Diplom_3&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +95,16 @@
       <updated>1682056379736</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
